@@ -32,7 +32,9 @@ function App() {
       <footer className="footer">
         <div className="footer-container">
           <div className="footer-col">
-            <h3 className="footer-brand">🛒 ShopKart</h3>
+            <h3 className="text-2xl font-bold bg-gradient-to-r from-violet-500 to-pink-400 bg-clip-text text-transparent flex items-center gap-2">
+              🛒 ShopKart
+            </h3>
             <p>Your one-stop destination for modern tech, gadgets, and apparel.</p>
           </div>
           <div className="footer-col">
